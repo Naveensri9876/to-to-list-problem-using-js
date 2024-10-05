@@ -1,1 +1,2 @@
-# to-to-list-problem-using-js
+Create a simple To-Do list application where users can add, delete,update in javascript
+
